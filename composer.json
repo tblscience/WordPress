@@ -2,9 +2,8 @@
   "require": {
     "php": "^7.0.0",
     "ext-pdo_sqlite": "*"
-  }
-}
-{
+  },
+
   "scripts": {
     "compile": [
       "mkdir db",
