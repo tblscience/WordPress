@@ -18,7 +18,7 @@
  * @package WordPress
  */
 define('DB_FILE', 'tbl.db');  
-define('DB_DIR', 'wp');  
+define('DB_DIR', 'db');  
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
