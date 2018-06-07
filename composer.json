@@ -4,3 +4,11 @@
     "ext-pdo_sqlite": "*"
   }
 }
+{
+  "scripts": {
+    "compile": [
+      "mkdir db",
+      "chmod 777 db"
+    ]
+  }
+}
